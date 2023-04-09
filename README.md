@@ -7,7 +7,7 @@ _________
    </p>
 <body>
   
-<img src="https://yappi.com.ua/public/user_files/it-english_1.gif" align="right" width="400" />
+<img src="https://yappi.com.ua/public/user_files/it-english_1.gif" align="right" width="350" />
    
      
 ### Задания:  
