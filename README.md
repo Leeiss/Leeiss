@@ -2,8 +2,13 @@
    
 _________
 </head>
+ <p>
+      
+   </p>
 <body>
+  
 <img src="https://yappi.com.ua/public/user_files/it-english_1.gif" align="right" width="400" />
+   
      
 ### Задания:  
      
