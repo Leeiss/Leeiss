@@ -12,7 +12,7 @@ _________
      
 ### Задания:  
      
-:ballot_box_with_check: 1 семестр   
+#### :ballot_box_with_check: 1 семестр   
 > Создание консольных приложений   
 + [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
@@ -29,18 +29,18 @@ _________
   </body>
        
 
-:ballot_box_with_check: 2 семестр
+#### :ballot_box_with_check: 2 семестр
 > Разработка приложений     
  
  Личные:    
    + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
    + [База данных отеля](https://github.com/Leeiss/HomeWork_Hotel)    
-   + [Ресторан (сериализация)]()   
-   + [Веб-браузер]()
+   + [Ресторан (сериализация)]()[В процессе]  
+   + [Веб-браузер]()[В процессе]
            
  Групповые:  
    + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
-   + Разработчик: [Список рекомендаций фильмов]()   
+   + Разработчик: [Список рекомендаций фильмов]()[В процессе]   
    
          
    ________
