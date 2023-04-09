@@ -35,13 +35,13 @@ _________
  Личные:    
    + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
    + [База данных отеля](https://github.com/Leeiss/HomeWork_Hotel)    
-   + [Ресторан (сериализация)]()[В процессе]  
-   + [Веб-браузер]()[В процессе]
+   + [Ресторан (сериализация)](https://github.com/Leeiss/Homework__Restaurant)[В процессе]  
+   + [Веб-браузер](https://github.com/Leeiss/Homework_Browser)[В процессе]
            
  Групповые:  
    + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
    + Разработчик: [Список рекомендаций фильмов]()[В процессе]   
-   
+   + Тестировщик: [Не назначено]()
          
    ________
        
