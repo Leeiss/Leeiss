@@ -1,5 +1,5 @@
 ### :frog: Hi there :frog: 
-<img src="https://yandex.ru/images/search?img_url=http%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2Fa7%2Fb7%2F10a7b724bd233391e1e180edbfb5d451.jpg&lr=43&pos=0&rpt=simage&source=serp&stype=image&text=%D1%82%D0%B5%D0%B1%D0%B5%20%D0%BF%D0%BE%D0%BF%D0%B0%D0%BB%D0%B0%D1%81%D1%8C%20%D0%BA%D1%80%D1%83%D1%82%D0%B0%D1%8F%20%D0%BB%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B0%20%D0%BA%D1%80%D1%83%D1%82%D0%B0%D1%8F%20%D0%BB%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%20%D0%BD%D0%B0%20%D1%82%D0%B5%D0%B1%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%BE%D0%B7%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE)" alt="Основное окно" width="400"/>" 
+<img src="https://sun1.tattelecom-nbc.userapi.com/impg/AQl2CUGqhFpLMtmT1kAnGLunUG3n5yD2nLueOQ/ux345v-gSvk.jpg?size=736x736&quality=95&sign=a00d33a02ae31a348f12cd21e1caa576&type=album" alt="Основное окно" width="400"/>
 ____
  
 Задания:  
