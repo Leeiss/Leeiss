@@ -14,7 +14,7 @@ _________
      
 :ballot_box_with_check: 1 семестр   
 > Создание консольных приложений   
-+ [Первая](https://github.com/Leeiss/HomeWork_FirstDZ)  
++ [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
 + [Операторы и исключения](https://github.com/Leeiss/HomeWork_OperatorsAndExceptions)  
 + [Методы и операторы](https://github.com/Leeiss/HomeWork_MethodsAndOperators)  
