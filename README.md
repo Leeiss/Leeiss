@@ -1,7 +1,8 @@
-### :frog: Hi there :frog: 
-<img src="https://sun1.tattelecom-nbc.userapi.com/impg/AQl2CUGqhFpLMtmT1kAnGLunUG3n5yD2nLueOQ/ux345v-gSvk.jpg?size=736x736&quality=95&sign=a00d33a02ae31a348f12cd21e1caa576&type=album" alt="Основное окно" width="400"/>
-____
- 
+## :frog: Hi there :frog: 
+<div id="header" align="right">
+  <img src="https://yappi.com.ua/public/user_files/it-english_1.gif"width="400"/>
+</div>
+  
 Задания:  
 :ballot_box_with_check:1 семестр 
 ###### Создание консольных приложений
