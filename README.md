@@ -40,7 +40,7 @@ _________
            
  Групповые:  
    + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
-   + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)[В процессе]   
+   + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
    + Тестировщик: [Не назначено]()
          
    ________
