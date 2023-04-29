@@ -37,11 +37,13 @@ _________
    + [База данных отеля](https://github.com/Leeiss/HomeWork_Hotel)    
    + [Ресторан (сериализация)](https://github.com/Leeiss/Homework__Restaurant)  
    + [Веб-браузер](https://github.com/Leeiss/Homework_Browser)
+   + [Генератор паролей]()    
+   + [Файловый менеджер]()     
            
  Групповые:  
    + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
    + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
-   + Тестировщик: [Не назначено]()
+   + Тестировщик: [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
          
    ________
        
