@@ -13,7 +13,7 @@ _________
 ### Задания:  
      
 #### :ballot_box_with_check: 1 семестр   
-> Создание консольных приложений   
+> Создание консольных приложений С#
 + [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
 + [Операторы и исключения](https://github.com/Leeiss/HomeWork_OperatorsAndExceptions)  
@@ -30,7 +30,7 @@ _________
        
 
 #### :ballot_box_with_check: 2 семестр
-> Разработка приложений     
+> Разработка приложений Windows forms     
  
  Личные:    
    + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
@@ -44,6 +44,19 @@ _________
    + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
    + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
    + Тестировщик: [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
+
+ #### :ballot_box_with_check: 3 семестр    
+ > Проекты С++
+   
+<div style="margin-left: 20px;">Программирование на С++:  </div>             
+      <br>                  
+        
+  + [Произведение матриц со статичесим и динамическим выделением памяти](https://github.com/Leeiss/HomeWork_Matrix)   
+  + [Реализация Stack]() 
+    
+<div style="margin-left: 20px;">Численные методы:  </div>     
+      <br>     
          
-   ________
+  + [Табуляция функции]()             
+
        
