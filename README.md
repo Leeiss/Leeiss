@@ -9,8 +9,9 @@ _________
   
 <img src="https://yappi.com.ua/public/user_files/it-english_1.gif"  align="right"  width="350" />
    
-     
-### Задания:  
+
+
+         
      
 #### :ballot_box_with_check: 1 семестр   
 > Создание консольных приложений С#
@@ -46,7 +47,7 @@ _________
    + Тестировщик: [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
 
  #### :ballot_box_with_check: 3 семестр    
- > Проекты С++
+ 
    
 <div style="margin-left: 20px;">Программирование на С++:  </div>             
       <br>                  
