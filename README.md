@@ -13,7 +13,7 @@ _________
 
          
      
-#### :ballot_box_with_check: 1 семестр   
+ :ballot_box_with_check: 1 семестр   
 > Создание консольных приложений С#
 + [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
@@ -30,7 +30,7 @@ _________
   </body>
        
 
-#### :ballot_box_with_check: 2 семестр
+:ballot_box_with_check: 2 семестр
 > Разработка приложений Windows forms     
  
  Личные:    
@@ -46,7 +46,7 @@ _________
    + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
    + Тестировщик: [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
 
- #### :ballot_box_with_check: 3 семестр    
+ :ballot_box_with_check: 3 семестр    
  
    
 > Консольные приложения на С++                 
