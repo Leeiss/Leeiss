@@ -49,8 +49,8 @@ _________
  #### :ballot_box_with_check: 3 семестр    
  
    
-<div style="margin-left: 20px;">Программирование на С++:  </div>             
-      <br>                  
+> Консольные приложения на С++                 
+                   
         
   + [Произведение матриц со статичесим и динамическим выделением памяти](https://github.com/Leeiss/HomeWork_Matrix)   
   + [Реализация Stack](https://github.com/Leeiss/HomeWork_Stack)
