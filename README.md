@@ -1,4 +1,4 @@
-<h1 align = "center">Ku  :space_invader: </h1>  
+<h1 align = "center">Ku:space_invader: </h1>  
    
 _________
 </head>
