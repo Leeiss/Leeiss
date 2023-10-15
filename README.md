@@ -6,8 +6,8 @@ _________
       
    </p>
 <body>
-  
-<img src="(https://img2.joyreactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Gif-Pixel-Art-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-6213622.gif)"  align="right"  width="350" />
+ 
+<img src="https://img2.joyreactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8-Pixel-Gif-Pixel-Art-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-6213622.gif"  align="right"  width="350" />
    
 
 
