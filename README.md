@@ -7,7 +7,7 @@ _________
    </p>
 <body>
  
-<img src="(https://github.com/Leeiss/HomeWork_OperatorOverloading/blob/main/res/11.gif)"  align="right"  width="350" />
+<img src="https://usagif.com/wp-content/uploads/cat-typing-8.gif"  align="right"  width="350" />
    
 
 
