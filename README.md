@@ -55,10 +55,8 @@ _________
   + [Произведение матриц со статичесим и динамическим выделением памяти](https://github.com/Leeiss/HomeWork_Matrix)   
   + [Реализация Stack](https://github.com/Leeiss/HomeWork_Stack)
   + [Перегрузка операторов](https://github.com/Leeiss/HomeWork_OperatorOverloading)
+  + [Численные методы](https://github.com/Leeiss/FunctionTab)
     
-<div style="margin-left: 20px;">Численные методы:  </div>     
-      <br>     
-         
-  + [Табуляция функции](https://github.com/Leeiss/FunctionTab)             
+
 
        
