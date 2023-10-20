@@ -55,6 +55,8 @@ _________
   + [Произведение матриц со статичесим и динамическим выделением памяти](https://github.com/Leeiss/HomeWork_Matrix)   
   + [Реализация Stack](https://github.com/Leeiss/HomeWork_Stack)
   + [Перегрузка операторов](https://github.com/Leeiss/HomeWork_OperatorOverloading)
+  + [Шаблоны](https://github.com/Leeiss/HomeWork_Template)
+  + [Подсчет чисел фибоначчи с помощью шаблонного класса и функции](https://github.com/Leeiss/HomeWork_FibonacciWithTemplates)
   + [Численные методы](https://github.com/Leeiss/FunctionTab)
     
 
