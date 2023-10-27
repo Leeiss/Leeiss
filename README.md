@@ -57,7 +57,7 @@ _________
   + [Перегрузка операторов для комплексных чисел](https://github.com/Leeiss/HomeWork_OperatorOverloading)
   + [Шаблоны](https://github.com/Leeiss/HomeWork_Template)
   + [Подсчет чисел фибоначчи с помощью шаблонного класса и функции](https://github.com/Leeiss/HomeWork_FibonacciWithTemplates)
-  + [Алгоритмичсекие задачи](https://github.com/Leeiss/HomeWork_Algorithms)
+  + [Алгоритмические задачи](https://github.com/Leeiss/HomeWork_Algorithms)
   + [Численные методы](https://github.com/Leeiss/FunctionTab)
     
 
