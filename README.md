@@ -58,7 +58,9 @@ _________
   + [Шаблоны](https://github.com/Leeiss/HomeWork_Template)
   + [Подсчет чисел фибоначчи с помощью шаблонного класса и функции](https://github.com/Leeiss/HomeWork_FibonacciWithTemplates)
   + [Алгоритмические задачи](https://github.com/Leeiss/HomeWork_Algorithms)
-  + [Работа с csv-файлом](https://github.com/Leeiss/HomeWork_ConvertingCSVtoBinary)  
+  + [Работа с csv-файлом](https://github.com/Leeiss/HomeWork_ConvertingCSVtoBinary)
+  + [Избежание утечек памяти](https://github.com/Leeiss/HomeWork_AvoidingMemoryLeaks)
+  + [Подсчет интеграла численным методом](https://github.com/Leeiss/HomeWork_CalculatingIntegralUsingNumericalMethods)
   + [Численные методы](https://github.com/Leeiss/FunctionTab)
     
 
