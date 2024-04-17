@@ -13,7 +13,7 @@ _________
 
          
         
-> Консольных приложения С#
+> Консольные приложения С#
 + [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
 + [Операторы и исключения](https://github.com/Leeiss/HomeWork_OperatorsAndExceptions)  
