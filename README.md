@@ -13,7 +13,7 @@ _________
 
          
         
-> Создание консольных приложений С#
+> Консольных приложения С#
 + [Введение](https://github.com/Leeiss/HomeWork_FirstDZ)  
 + [Типы данных](https://github.com/Leeiss/HomeWork_DataTypes)  
 + [Операторы и исключения](https://github.com/Leeiss/HomeWork_OperatorsAndExceptions)  
@@ -29,7 +29,7 @@ _________
   </body>
        
 
-> Разработка приложений Windows forms     
+> Приложения Windows forms     
  
  Личные:    
    + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
