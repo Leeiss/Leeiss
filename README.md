@@ -28,24 +28,19 @@ _________
 + [Свойства, индексаторы, атрибуты](https://github.com/Leeiss/HomeWork_PropertiesIndexersAttributes)
   </body>
        
-
-> Приложения Windows forms     
- 
- Личные:    
+> Приложения С# Windows forms     
+   
    + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
    + [База данных отеля](https://github.com/Leeiss/HomeWork_Hotel)    
    + [Ресторан (сериализация)](https://github.com/Leeiss/Homework__Restaurant)  
    + [Веб-браузер](https://github.com/Leeiss/Homework_Browser)
    + [Генератор паролей](https://github.com/Leeiss/Homework_PasswordGenerator)    
    + [Файловый менеджер](https://github.com/Leeiss/Homework_TotalComander)     
-           
- Групповые:  
-   + Аналитик: [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
-   + Разработчик: [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
-   + Тестировщик: [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
+   + [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
+   + [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
+   + [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
  
  
-   
 > Консольные приложения на С++                 
                    
         
@@ -59,6 +54,10 @@ _________
   + [Избежание утечек памяти](https://github.com/Leeiss/HomeWork_AvoidingMemoryLeaks)
   + [Подсчет интеграла численным методом](https://github.com/Leeiss/HomeWork_CalculatingIntegralUsingNumericalMethods)
   + [Численные методы](https://github.com/Leeiss/FunctionTab)
+
+
+> Приложения на С++
+ + [Game of life](https://github.com/Leeiss/GameOfLifeApplication)
     
 
 
