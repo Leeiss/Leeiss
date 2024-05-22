@@ -57,7 +57,7 @@ _________
 
 
 > Приложения на С++
- + [Game of life](https://github.com/Leeiss/GameOfLifeApplication)
+ + [Клеточный автомат Game of life](https://github.com/Leeiss/GameOfLifeApplication)
     
 
 
