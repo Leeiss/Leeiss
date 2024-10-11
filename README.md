@@ -14,19 +14,9 @@ _________
          
         
 > 1 курс
-+ [Консольные приложения С# (1 курс)](https://github.com/Leeiss/Leeiss-FirstSemesterConsoleApplications) 
-       
-> Приложения С# Windows forms     
-   
-   + [Блокнот](https://github.com/Leeiss/HomeWork_Notepad)  
-   + [База данных отеля](https://github.com/Leeiss/HomeWork_Hotel)    
-   + [Ресторан (сериализация)](https://github.com/Leeiss/Homework__Restaurant)  
-   + [Веб-браузер](https://github.com/Leeiss/Homework_Browser)
-   + [Генератор паролей](https://github.com/Leeiss/Homework_PasswordGenerator)    
-   + [Файловый менеджер](https://github.com/Leeiss/Homework_TotalComander)     
-   + [Список дел](https://github.com/Leeiss/TeamProject_ToDoList)  
-   + [Список рекомендаций фильмов](https://github.com/Leeiss/TeamProject2_ListOfRecommendations)     
-   + [Подборка атрибутов](https://github.com/Leeiss/TeamProject3_CollectionOfAttributes)
++ [Консольные приложения С#](https://github.com/Leeiss/Leeiss-FirstSemesterConsoleApplications)
++ [Приложения С# Windows forms](https://github.com/Leeiss/FirstSemesterWFApplications)
+
  
  
 > Консольные приложения на С++                 
