@@ -14,7 +14,7 @@ _________
          
         
 > 1 курс
-+ [Консольные приложения С#](https://github.com/Leeiss/Leeiss-FirstSemesterConsoleApplications)
++ [Консольные приложения С#](https://github.com/Leeiss/FirstSemesterConsoleApplications)
 + [Приложения С# Windows forms](https://github.com/Leeiss/FirstSemesterWFApplications)
 
  
