@@ -36,7 +36,8 @@ _________
 > Приложения на С++
  + [Клеточный автомат Game of life](https://github.com/Leeiss/GameOfLifeApplication)
 
- > 3 курс 
+ > 3 курс
+  + [Методы оптимизаций](https://github.com/Leeiss/OptimizationMethods)
     
 
 
