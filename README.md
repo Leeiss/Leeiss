@@ -19,8 +19,7 @@ _________
 
  
  
-> Консольные приложения на С++                 
-                   
+> 2 курс                          
         
   + [Произведение матриц со статичесим и динамическим выделением памяти](https://github.com/Leeiss/HomeWork_Matrix)   
   + [Реализация Stack](https://github.com/Leeiss/HomeWork_Stack)
@@ -36,6 +35,8 @@ _________
 
 > Приложения на С++
  + [Клеточный автомат Game of life](https://github.com/Leeiss/GameOfLifeApplication)
+
+ > 3 курс 
     
 
 
