@@ -40,6 +40,7 @@ _________
   + [Методы оптимизаций](https://github.com/Leeiss/OptimizationMethods)
   + [Базы данных](https://github.com/Leeiss/DataBases)
     
-
+________
+  + [Аналитика данных](https://github.com/Leeiss/DataBases)
 
        
